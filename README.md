@@ -1,3 +1,3 @@
 # ProjektBiZD
-Bazy i źródła danych Projekt Karolina Maliszewska i Weronika Kowacka
-Temat Sieć Kin
+Bazy i źródła danych Projekt Karolina Maliszewska i Weronika Kowacka<br>
+<b>Temat:</b> Sieć Kin
